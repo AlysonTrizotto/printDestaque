@@ -1,6 +1,6 @@
 <?php
 
-namespace NCentral_GLPI\inc\Modelo;
+namespace inc\Modelo;
 
 class PrintValue{    
     public function printV($text, $style = '', $newLine = true): void{
